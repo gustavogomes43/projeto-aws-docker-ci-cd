@@ -25,11 +25,6 @@ A infraestrutura foi desenhada seguindo as melhores práticas do **AWS Well-Arch
 
 ---
 
-## 🛠️ Arquitetura do Sistema
-![Arquitetura do Projeto](link_da_imagem_que_geramos_acima.png)
-
----
-
 ## 🧠 Deep Dive: Desafios Técnicos e Troubleshooting (Diferencial)
 
 Enfrentei e resolvi desafios reais de infraestrutura, demonstrando capacidade analítica em cenários de crise:
