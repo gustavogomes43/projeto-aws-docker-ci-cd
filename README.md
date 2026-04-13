@@ -16,7 +16,7 @@ O objetivo central foi implementar uma cultura de **"Build Once, Run Anywhere"**
 ## 🏗️ Arquitetura e Engenharia de Stack
 A infraestrutura foi projetada seguindo os princípios do AWS Well-Architected Framework, com foco em escalabilidade, segurança, confiabilidade e eficiência operacional.
 
-![Arquitetura AWS Docker CI/CD](img/arquitetura-eks-scorpion.png)
+![Arquitetura AWS Docker CI/CD](img/2026-04-11_02-50.png)
 
 🔹 Runtime & Application
 Aplicação desenvolvida em Node.js, otimizada para operações assíncronas e alta performance em cenários distribuídos.
