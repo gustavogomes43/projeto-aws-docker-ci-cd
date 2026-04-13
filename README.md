@@ -94,6 +94,16 @@ Enfrentei e resolvi desafios reais de infraestrutura, demonstrando capacidade an
 
 ---
 
+✅ Validação de Sucesso (Diferencial)
+Abaixo, as evidências de que a aplicação está acessível e funcional no ambiente de nuvem da AWS, validando todo o ciclo de engenharia:
+
+Primeiro acesso: Validação da aplicação respondendo via IP público da AWS após a configuração do EC2.
+
+Deploy Final: Confirmação da aplicação Dockerizada rodando em uma instância EC2, pronta para produção.
+![Depoly Final](img/2026-04-11_02-57.png)
+
+---
+
 ## ⚙️ Governança e Segurança (GitHub Secrets)
 O pipeline consome segredos criptografados, garantindo conformidade com padrões de segurança:
 
